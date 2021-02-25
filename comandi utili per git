@@ -1,0 +1,6 @@
+comandi utili per git
+git add -A (committa tutti i cambiamenti e li prepara al salvataggio)
+git log (mostra tutti i commit)
+git checkout (torna ad un commit precedente)
+git stash (elimina i cambiamenti creati fino al precedente commit)
+git commit -m "qualcosa che ti faccia ricordare il punto in cui sei arrivato" (comando eseguito dopo git add -A per aggiungere committs ai savepoints)
